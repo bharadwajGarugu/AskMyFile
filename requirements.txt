@@ -1,0 +1,21 @@
+sentence-transformers==4.1.0
+langchain==0.3.25
+faiss-cpu==1.11.0
+ollama==0.5.1
+streamlit==1.45.1
+pandas==2.3.0
+openpyxl==3.1.5
+python-docx==1.1.2
+PyMuPDF==1.26.0
+numpy==2.3.0
+fastapi>=0.104.1
+uvicorn>=0.24.0
+sqlalchemy>=2.0.23
+python-jose>=3.3.0  # for JWT tokens
+passlib>=1.7.4  # for password hashing
+python-multipart>=0.0.6  # for form data
+pydantic>=2.5.2
+python-dotenv>=1.0.0
+psycopg2-binary>=2.9.9
+bcrypt>=4.0.1
+loguru>=0.7.2  # For better logging 
