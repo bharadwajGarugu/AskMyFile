@@ -45,6 +45,7 @@ temp_*
 *.bak
 *.tmp
 *.temp
+Internal_bot.py  # Contains sensitive internal data
 
 # Streamlit
 .streamlit/
